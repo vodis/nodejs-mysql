@@ -10,5 +10,7 @@ module.exports = {
             return next();
         }
         return res.redirect('/profile');
+
+        
     }
 };
